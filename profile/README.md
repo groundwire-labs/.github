@@ -1,6 +1,4 @@
-# Groundwire Labs
-
-**AI you can measure.**
+![Groundwire Labs: AI you can measure.](https://raw.githubusercontent.com/groundwire-labs/.github/main/profile/banner.png)
 
 We are an AI consultancy that advises and builds. We treat every AI feature
 like an experiment: evidence decides each step.
